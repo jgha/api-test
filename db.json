@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Sala Macul",
-      "address": "Av. Condel 679, oficina 304, Providencia",
+      "address": "Santa Cristina 3158, Macul",
       "location_lat": "-33.441238",
       "location_long": "-70.627476",
       "active": true,
@@ -38,7 +38,7 @@
       "name": "Sala Vivo",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "equipment": "<table style=\"border:0;\"><tbody><tr><td>Equipo 11</td><td>Equipo 2</td></tr><tr><td>Equipo 3</td><td>Equipo 4</td></tr><tr><td>Equipo 5</td><td>Equipo 6</td></tr></tbody></table>",
-      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/12670050_177645679267972_7397566856231255619_n.jpg",
+      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala1_compressed-1-768x512.jpg",
       "price": "8000",
       "schedule": "Lun/Vie 09:00-19:00",
       "phone": "+56 2 1234 5678",
@@ -62,7 +62,7 @@
       "name": "Sala Puente",
       "description": "Sala puente sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "equipment": "<table style=\"border:0;\"><tr><td>Equipo 1</td><td>Equipo 2</td></tr><tr><td>Equipo 3</td><td>Equipo 4</td></tr></table>",
-      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala1_compressed-1.jpg",
+      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/12670050_177645679267972_7397566856231255619_n-768x512.jpg",
       "price": "8400",
       "schedule": "Lun/Vie 09:00-19:00",
       "phone": "+56 2 1234 5678",
@@ -83,10 +83,10 @@
     {
       "id": 3,
       "company_id": 2,
-      "name": "Sala la morera",
-      "description": "La morera consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "name": "Sala Tabú",
+      "description": "Tabú consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "equipment": "<table style=\"border:0;\"><tr><td>Equipo 1</td><td>Equipo 2</td></tr><tr><td>Equipo 3</td><td>Equipo 4</td></tr></table>",
-      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/IMG_1637.jpg",
+      "default_photo": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala6_compressed-768x512.jpg",
       "price": "8000",
       "schedule": "Lun/Vie 09:00-19:00",
       "phone": "+56 2 1234 5678",
@@ -110,7 +110,7 @@
       "name": "Sala San Juan",
       "description": "San juan adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "equipment": "<table style=\"border:0;\"><tr><td>Equipo 1</td><td>Equipo 2</td></tr><tr><td>Equipo 3</td><td>Equipo 4</td></tr></table>",
-      "default_photo": "https://picsum.photos/id/299/500/300",
+      "default_photo": "http://www.eltemplo-ae.com/wp-content/uploads/2016/12/Sala_Musica_Canto-Alquiler-Templo.jpg",
       "price": "8000",
       "schedule": "Lun/Vie 09:00-19:00",
       "phone": "+56 2 1234 5678",
@@ -134,7 +134,7 @@
       "name": "Sala Macarena",
       "description": "Macarena ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "equipment": "<table style=\"border:0;\"><tr><td>Equipo 1</td><td>Equipo 2</td></tr><tr><td>Equipo 3</td><td>Equipo 4</td></tr></table>",
-      "default_photo": "https://picsum.photos/id/2/500/300",
+      "default_photo": "https://images.squarespace-cdn.com/content/v1/53029fb1e4b0f8636b5e3b93/1411511612556-V5NMCGQ3VPO2YP0G0O6G/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/IMG_0920.jpg?format=1000w",
       "price": "8000",
       "schedule": "Lun/Vie 09:00-19:00",
       "phone": "+56 2 1234 5678",
@@ -157,7 +157,7 @@
     {
       "id": 1,
       "room_id": 1,
-      "img_path": "https://picsum.photos/id/157/500/300",
+      "img_path": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala6_compressed-768x512.jpg",
       "active": true,
       "created_at": "2019-10-06T14:55:00",
       "updated_at": "2019-10-06T14:55:00"
@@ -165,7 +165,7 @@
     {
       "id": 2,
       "room_id": 1,
-      "img_path": "https://picsum.photos/id/971/500/300",
+      "img_path": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala5_compressed-768x512.jpg",
       "active": true,
       "created_at": "2019-10-06T14:55:00",
       "updated_at": "2019-10-06T14:55:00"
@@ -173,7 +173,7 @@
     {
       "id": 3,
       "room_id": 2,
-      "img_path": "https://picsum.photos/id/971/500/300",
+      "img_path": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala3_compressed-768x512.jpg",
       "active": true,
       "created_at": "2019-10-06T14:55:00",
       "updated_at": "2019-10-06T14:55:00"
@@ -181,31 +181,7 @@
     {
       "id": 4,
       "room_id": 2,
-      "img_path": "https://picsum.photos/id/971/500/300",
-      "active": true,
-      "created_at": "2019-10-06T14:55:00",
-      "updated_at": "2019-10-06T14:55:00"
-    },
-    {
-      "id": 5,
-      "room_id": 3,
-      "img_path": "https://picsum.photos/id/971/500/300",
-      "active": true,
-      "created_at": "2019-10-06T14:55:00",
-      "updated_at": "2019-10-06T14:55:00"
-    },
-    {
-      "id": 6,
-      "room_id": 4,
-      "img_path": "https://picsum.photos/id/971/500/300",
-      "active": true,
-      "created_at": "2019-10-06T14:55:00",
-      "updated_at": "2019-10-06T14:55:00"
-    },
-    {
-      "id": 7,
-      "room_id": 5,
-      "img_path": "https://picsum.photos/id/971/500/300",
+      "img_path": "http://www.lasalamacul.cl/wp-content/uploads/2015/12/lasala2_compressed-768x512.jpg",
       "active": true,
       "created_at": "2019-10-06T14:55:00",
       "updated_at": "2019-10-06T14:55:00"
@@ -218,7 +194,7 @@
       "name": "Jose Hernandez",
       "email": "jose.hernandez@ideauno.cl",
       "email_verified_at": "",
-      "password": "123456",
+      "password": "111111",
       "remember_token": "",
       "active": true,
       "created_at": "2019-10-06T14:55:00",
